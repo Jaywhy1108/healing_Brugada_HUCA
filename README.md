@@ -1,6 +1,4 @@
-# healing_Brugada_HUCA
-
-# README: Healing Brugada-HUCA (Google Colab Execution Guide)
+# README: Healing Brugada-HUCA
 
 This guide outlines the setup, configuration, and execution steps for running the **Healing Brugada-HUCA** pipeline within a Google Colab environment.
 
